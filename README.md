@@ -7,4 +7,9 @@
 # 포스터
 [너랑나팀_포스터.pptx](https://github.com/chelling2/English-Conversation-Web/files/14081683/_.pptx)
 
+# PPT
+[너랑나.pdf](https://github.com/chelling2/English-Conversation-Web/files/14081766/default.pdf)
+
+
+
 
