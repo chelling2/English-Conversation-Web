@@ -1,3 +1,5 @@
+![image](https://github.com/chelling2/English-Conversation-Web/assets/114050357/87b5d863-d377-466a-b05a-e4ed2f0cb9eb)
+
 # 영어회화 웹사이트 구축
 - 11/19 ~ 12/10
 
@@ -10,7 +12,7 @@
 # PPT
 - [너랑나.pdf](https://github.com/chelling2/English-Conversation-Web/files/14081766/default.pdf)
 
-![image](https://github.com/chelling2/English-Conversation-Web/assets/114050357/87b5d863-d377-466a-b05a-e4ed2f0cb9eb)
+
 
 
 
